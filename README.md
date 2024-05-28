@@ -29,4 +29,4 @@ I'm a technology enthusiast who loves to:
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/souhail-segni-651471217)
 - [Medium](https://medium.com/)
-- .[Email](contact.souhail.segni@gmail.com)
+- [Email](contact.souhail.segni@gmail.com)
