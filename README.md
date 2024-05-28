@@ -7,10 +7,12 @@ Welcome in my profile ^^
 Souhail is a highly motivated and committed DevOps and cloud Engineer, with specialized skills in Cloud Native technologies.
 I'm a technology enthusiast who loves to:
 
+- Develop and maintain reliable systems 
+- Solve problems 
 - Share with others
-- write articles
-- give talks
-- record technical videos
+- Write articles
+- Help others
+  
 ...
 ### 🌱 Expertises
 
