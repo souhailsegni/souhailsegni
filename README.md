@@ -39,8 +39,9 @@ I'm a technology enthusiast who loves to:
 ### 📫 **How to reach me**  
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/souhail-segni-651471217)  
-- 📝 [**Medium**](https://medium.com/)  
-- 📧 [**Email**](mailto:contact.souhail.segni@gmail.com)  
+- 📝 [**Medium**](https://medium.com/@souhail.segni)  
+- 📧 [**Email**](mailto:contact.souhail.segni@gmail.com)
+- 📝 [**Dev.to**](https://dev.to/souhailsegni)   
 
 ---
 
