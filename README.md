@@ -38,7 +38,8 @@ I'm a technology enthusiast who loves to:
 
 ### 📫 **How to reach me**  
 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/souhail-segni-651471217)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/souhail-segni-651471217)
+- 🛠️ [GitLab](https://gitlab.com/segni_souhail) 
 - 📝 [**Medium**](https://medium.com/@souhail.segni)  
 - 📧 [**Email**](mailto:contact.souhail.segni@gmail.com)
 - 📝 [**Dev.to**](https://dev.to/souhailsegni)   
